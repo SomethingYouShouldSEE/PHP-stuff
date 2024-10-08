@@ -1,0 +1,21 @@
+.prod {
+    border: 2px solid black;
+}
+
+#test {
+    border: 2px solid black;
+    margin: 0 auto 0 auto;
+    background-color:white;
+    padding: 0;
+}
+
+.bumps {
+    background-color: white;
+}
+
+#push {
+    margin: 0 auto 10px auto;
+}
+
+
+

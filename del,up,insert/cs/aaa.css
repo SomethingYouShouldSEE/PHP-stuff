@@ -1,0 +1,18 @@
+html {
+    background-color: gray;
+}
+
+#test {
+    border: 2px solid black;
+    margin: 0 auto 0 auto;
+    background-color:white;
+}
+
+.product {
+    padding: 1px 6px 1px 6px;
+}
+
+.tripletsbtn{
+    border-style: solid ;
+    margin: 0;
+}
